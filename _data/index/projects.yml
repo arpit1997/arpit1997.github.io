@@ -1,0 +1,16 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Human-detection-and-Tracking
+  i18n: jalpc
+  gh_user: ITCoders
+  repo: Human-detection-and-Tracking
+  img: /static/assets/img/landing/hdat.png
+  desc: Tracks and recognizes humans in a given video
+
+- name: PQusic
+  i18n: leetcode
+  gh_user: arpit1997
+  repo: PQusic
+  img: /static/assets/img/landing/play.png
+  desc: PQusic is a web-music player which provides the features of search, create playlist and listen songs

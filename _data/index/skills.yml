@@ -1,0 +1,12 @@
+# skills section data
+- name: Python
+  percentage: 100
+
+- name: Node.js
+  percentage: 90
+
+- name: django/flask
+  percentage: 90
+
+- name: Git/Github
+  percentage: 85
