@@ -27,13 +27,21 @@
                         <a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a>
                     </li>
                     <li>
-                        <a href="https://www.facebook.com/{{ site.author.facebook_username }}" target="blank"><i class="fa fa-facebook"></i></a>
+                        <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow_username}}"
+                           target="blank"><i class="fa fa-stack-overflow"></i></a>
                     </li>
                     <li>
-                        <a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a>
+                        <a href="mailto:{{ site.author.email }}" target="blank"><i class="fa fa-envelope-o"></i></a>
                     </li>
+                    {% if site.author.twitter_username %}
                     <li>
-                        <a href="{{ site.baseurl }}/feed.xml" target="blank"><i class="fa fa-rss"></i></a>
+                        <a href="https://twitter.com/{{ site.author.twitter_username }}" target="blank"><i
+                                class="fa fa-twitter"></i></a>
+                    </li>
+                    {% endif %}
+                    <li>
+                        <a href="https://linkedin.com/in/{{ site.author.linkedin_username }}" target="blank"><i
+                                class="fa fa-linkedin"></i></a>
                     </li>
                     {% if site.author.cv %}
                     <li>

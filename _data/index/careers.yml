@@ -1,7 +1,68 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: MateLabs Innovations
+    link: https://matelabs.in
+    i18n: company_b
+  desc:
+    detail: Intern at MateLabs
+    i18n: company_b_desc
+  date:
+    detail: May-July 2017
+    i18n: company_b_date
+  job:
+    detail: Backend Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: BrainPlay Learning Solutions
+    link: http://www.brainplay.in
+    i18n: company_b
+  desc:
+    detail: Intern at BrainPlay
+    i18n: company_b_desc
+  date:
+    detail: May-July 2017
+    i18n: company_b_date
+  job:
+    detail: Full Stack Developer and Code reviewer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: QuarkMe
+    link: https://www.quarkme.com/
+    i18n: company_b
+  desc:
+    detail: Intern at QuarkMe
+    i18n: company_b_desc
+  date:
+    detail: Feb-April 2017
+    i18n: company_b_date
+  job:
+    detail: Backend Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Rentoys.in
+    link: https://rentoys.in/
+    i18n: company_b
+  desc:
+    detail: Freelancer at Rentoys
+    i18n: company_b_desc
+  date:
+    detail: Feb-April 2017
+    i18n: company_b_date
+  job:
+    detail: Backend Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
     detail: IIIT Vadodara
+    link: http://www.iiitvadodara.ac.in/
     i18n: company_a
   desc:
     detail: Student at IIIT-V
@@ -13,17 +74,3 @@
     detail: Student
     i18n: company_a_job
   icon:
-
-- name:
-    detail: QuarkMe
-    i18n: company_b
-  desc:
-    detail: Intern at QuarkMe
-    i18n: company_b_desc
-  date:
-    detail: Jan. 2017
-    i18n: company_b_date
-  job:
-    detail: Backend Developer
-    i18n: company_b_job
-  icon: fa-plus-square

@@ -5,8 +5,8 @@
 - name: Node.js
   percentage: 90
 
-- name: django/flask
+- name: Django
   percentage: 90
 
 - name: Git/Github
-  percentage: 85
+  percentage: 90

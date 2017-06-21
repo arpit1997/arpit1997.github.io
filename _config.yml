@@ -11,12 +11,15 @@ img_path: /Jalpc/static/assets/img/blog  # url should be changed to '/homepage/s
 
 # author -- index page "about me" section
 author: # change following line to your infomation.
-  name: arpit solanki # Be used at blog posts' author.
+  name: Arpit Solanki # Be used at blog posts' author.
   first_name: arpit  # Be used at index page about me section.
   last_name: solanki  # Be used at index page about me section.
   email: solankiarpit1997@gmail.com  # Leave blank if you don't have now
   facebook_username: arpit.solanki.97  # Leave blank if you don't have now
   github_username: arpit1997  # Leave blank if you don't have now
+  twitter_username: solankiarpit191
+  linkedin_username: arpit-solanki
+  stackoverflow_username: 5250746/arpit-solanki
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   skill_icon1:
     - name: icon-apache

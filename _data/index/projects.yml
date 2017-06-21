@@ -2,15 +2,31 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Human-detection-and-Tracking
-  i18n: jalpc
+  i18n: none
   gh_user: ITCoders
   repo: Human-detection-and-Tracking
   img: /static/assets/img/landing/hdat.png
   desc: Tracks and recognizes humans in a given video
 
 - name: PQusic
-  i18n: leetcode
+  i18n: none
   gh_user: arpit1997
   repo: PQusic
   img: /static/assets/img/landing/play.png
-  desc: PQusic is a web-music player which provides the features of search, create playlist and listen songs
+  desc: PQusic is a Web music player which provides the features of search, create playlist and listen songs
+
+
+- name: BookCab
+  i18n: none
+  gh_user: arpit1997
+  repo: BookCab
+  img: /static/assets/img/landing/cabs.svg
+  desc: A Simple Web App model that lets you book cabs in your nearby area
+
+- name: Traffic-Hunter
+  i18n: none
+  gh_user: arpit1997
+  repo: Traffic-Hunter
+  img: /static/assets/img/landing/traffic.png
+  desc: A Real-time road traffic application server built with Google Maps API
+
