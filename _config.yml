@@ -1,9 +1,9 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: arpit
-description: arpit's personal website
-keywords: arpit, arpit1997, arpitsolanki, arpitsolanki1997
+title: Arpit Solanki
+description: Arpit's personal website
+keywords: arpit, arpit1997, arpitsolanki, arpitsolanki1997, solankiarpit1997, solankiarpit191
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage'
 url: http://jarrekk.github.io/Jalpc  # url should be changed to 'http://www.jack003.com/homepage' as before
 # url: http://127.0.0.1:4000
@@ -12,8 +12,8 @@ img_path: /Jalpc/static/assets/img/blog  # url should be changed to '/homepage/s
 # author -- index page "about me" section
 author: # change following line to your infomation.
   name: Arpit Solanki # Be used at blog posts' author.
-  first_name: arpit  # Be used at index page about me section.
-  last_name: solanki  # Be used at index page about me section.
+  first_name: Arpit  # Be used at index page about me section.
+  last_name: Solanki  # Be used at index page about me section.
   email: solankiarpit1997@gmail.com  # Leave blank if you don't have now
   facebook_username: arpit.solanki.97  # Leave blank if you don't have now
   github_username: arpit1997  # Leave blank if you don't have now

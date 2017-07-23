@@ -80,12 +80,24 @@ permalink: /
     {% include sections/{{section.tpl}} %}
   </section>
 {% endfor %}
-<style type="text/css">
+<footer>
+        <div class="icons">
+            <ul>
+                <li><a href="https://www.facebook.com/arpit.solanki.97" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://twitter.com/solankiarpit191" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="https://plus.google.com/u/0/115073497014399161196" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/arpit-solanki/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="https://github.com/arpit1997" target="_blank"><i class="fa fa-github-alt"></i></a></li>
+                <li><a href="https://stackoverflow.com/users/5250746/arpit-solanki" target="_blank"><i class="fa fa-stack-overflow"></i></a></li>
+            </ul>
+        </div>
+        <div class="powered-by">Hosted with <span>❤ </span>on <span><a href="https://github.com/arpit1997/arpit1997.github.io"><i class="fa fa-github"></i></a> </span></div>
+    </footer><style type="text/css">
     iframe {
   -moz-transform: scale(0.25, 0.25);
   -webkit-transform: scale(0.25, 0.25);
   -o-transform: scale(0.25, 0.25);
-  -ms-transform: scale(0.25, 0.25);
+  -ms-transform: scale(0.25, 0.25); 
   transform: scale(0.25, 0.25);
   -moz-transform-origin: top left;
   -webkit-transform-origin: top left;
@@ -93,6 +105,36 @@ permalink: /
   -ms-transform-origin: top left;
   transform-origin: top left;
 }
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  color: black   ;
+  padding: 0.5em 2em; }
+  footer .icons ul {
+    padding: 0;
+    margin: 0;
+    list-style: none; }
+    footer .icons ul li {
+      display: inline-block;
+      font-size: 1.2em;
+      padding: 0 0.2em; }
+      footer .icons ul li a {
+        text-decoration: none;
+        color: #3385ff;
+        opacity: 0.8; }
+        footer .icons ul li a:hover {
+          text-decoration: none;
+          opacity: 1; }
+  footer .powered-by {
+    font-size: 1.2em; }
+    footer .powered-by span {
+      padding: 0.25em;
+      line-height: 1.2;
+      color: #3385ff;
+      font-size: 1.5em; }
 </style>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
