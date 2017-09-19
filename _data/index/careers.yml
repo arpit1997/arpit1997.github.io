@@ -1,5 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: vstv.io
+    link: https://vstv.io
+    i18n: company_b
+  desc: 
+    detail: Intern at vstv
+    i18n: company_b_desc
+  date:
+    detail: September - Present
+    i18n: company_b_date
+  job:
+    detail: Backend Developer (Node.js)
+    i18n: company_b_job
+  icon: fa-plus-square
+
 - name:
     detail: MateLabs Innovations
     link: https://matelabs.in
@@ -8,10 +24,10 @@
     detail: Intern at MateLabs
     i18n: company_b_desc
   date:
-    detail: May-July 2017
+    detail: May - July 2017
     i18n: company_b_date
   job:
-    detail: Backend Developer
+    detail: Backend Developer (Python/Django)
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -23,10 +39,10 @@
     detail: Intern at BrainPlay
     i18n: company_b_desc
   date:
-    detail: May-July 2017
+    detail: May - July 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer and Code reviewer
+    detail: Full Stack Developer and Code reviewer (Node.js)
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -38,10 +54,10 @@
     detail: Intern at QuarkMe
     i18n: company_b_desc
   date:
-    detail: Feb-April 2017
+    detail: Feb - April 2017
     i18n: company_b_date
   job:
-    detail: Backend Developer
+    detail: Backend Developer (Python/Django)
     i18n: company_b_job
   icon: fa-plus-square
 
@@ -53,10 +69,10 @@
     detail: Freelancer at Rentoys
     i18n: company_b_desc
   date:
-    detail: Feb-April 2017
+    detail: Feb - April 2017
     i18n: company_b_date
   job:
-    detail: Backend Developer
+    detail: Backend Developer (Python/Django)
     i18n: company_b_job
   icon: fa-plus-square
 
