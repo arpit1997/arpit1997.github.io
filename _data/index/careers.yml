@@ -1,5 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: SocialCops
+    link: https://socialcops.com/
+    i18n: company_b
+  desc: 
+    detail: Intern at SocialCops
+    i18n: company_b_desc
+  date:
+    detail: January - Present 2018
+    i18n: company_b_date
+  job:
+    detail: Data Engineer
+    i18n: company_b_job
+  icon: fa-plus-square
 
 - name:
     detail: vstv.io
@@ -9,7 +23,7 @@
     detail: Intern at vstv
     i18n: company_b_desc
   date:
-    detail: September - Present
+    detail: September - November 2017
     i18n: company_b_date
   job:
     detail: Backend Developer (Node.js)
