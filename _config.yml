@@ -21,6 +21,7 @@ author: # change following line to your infomation.
   linkedin_username: arpit-solanki
   stackoverflow_username: 5250746/arpit-solanki
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  medium: solankiarpit1997
   skill_icon1:
     - name: icon-apache
     - name: fa-linux
