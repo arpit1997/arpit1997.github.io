@@ -1,5 +1,4 @@
----
-title: robots
----
 User-agent: *
-Sitemap: <{{site.url}}/sitemap.xml>
+Allow: /
+Sitemap: https://arpitsolanki.in/sitemap.xml
+Host: https://arpitsolanki.in
